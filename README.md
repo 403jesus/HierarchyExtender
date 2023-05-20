@@ -1,7 +1,6 @@
 # HierarchyExtender
 
-Want to get just a little bit more information from a glance at a hierarchy?
-This plugin tries to display the most relavent; most important component next to each item in the Hierarchy.
+Displays the most relavent component next to each item in the Hierarchy.
 
 ![image](https://user-images.githubusercontent.com/9137655/172061891-56958df0-7003-48db-bfd8-770734831e6d.png)
 
